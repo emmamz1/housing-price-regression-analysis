@@ -99,7 +99,7 @@ Los modelos fueron comparados utilizando:
 ```text
 .
 ├── house-prices.csv
-├── TP_regresion_AA1.ipynb
+├── Prediccion_precio_viviendas.ipynb
 └── README.md
 ```
 
